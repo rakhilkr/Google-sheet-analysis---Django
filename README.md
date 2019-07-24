@@ -1,4 +1,4 @@
-# Google-sheet-analysis---Djnago
+# Google-sheet-analysis---Django
 Reading datas from google sheet using goole API,
 
 
